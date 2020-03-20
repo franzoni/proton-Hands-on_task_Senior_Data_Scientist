@@ -13,4 +13,4 @@ Dataset is described here: http://archive.ics.uci.edu/ml/datasets/Online+Retail+
 ## Install lifetimes package
   ```pip install --user lifetimes```
 
-## Execute the jupiter notebooks notebooks 
+## Execute the jupiter notebooks
